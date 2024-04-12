@@ -4,9 +4,9 @@ This Python script generates jokes by fetching data from the [icanhazdadjoke](ht
 
 ## Usage
 
-1. Clone the repository or download the `jokes_generator.py` file.
-2. Make sure you have Python installed on your system.
-3. Run the script using the following command:
+1. Clone the repository or download the `code.py` file.
+3. Make sure you have Python installed on your system.
+4. Run the script using the following command:
 
 ```bash
 python code.py
