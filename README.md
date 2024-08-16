@@ -21,3 +21,5 @@ The script sends a GET request to the icanhazdadjoke API and receives a response
 
 Error Handling
 If there is an error fetching the data from the API, the script will display an error message and prompt the user to try again.
+
+https://devfolio.co/projects/jokes-generator-open-innovation-6bb5
